@@ -1,2 +1,2 @@
-# GTU-CSE102
-Gebze Technical Universisty CSE102 homework solutions (2021-2022)
+# GTU CSE102
+Gebze Technical University CSE102 homework solutions (2021-2022)
